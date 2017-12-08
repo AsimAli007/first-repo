@@ -1,2 +1,2 @@
 # first-repo
-my first repository
+Print('Hello World')
